@@ -1,0 +1,16 @@
+/*
+*will print hello world
+* Author: Dalton Carder
+*/
+
+#include <stdlib.h>
+#include <stdio.h>
+
+int main(int argc, char **argv)  {
+
+
+	printf("Dalton Carder\n");
+
+	return 0;
+
+}
